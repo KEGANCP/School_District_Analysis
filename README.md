@@ -9,9 +9,12 @@ Upon consolidating data from these datasets with several different basis and cri
 
 #### School District Summary
 The below will show our data with all scores, and the second image shows with the prior mention 9th grades Thomas High School scores reomved. Reviewing the data we can conclude:
-         * With 39,170 students involved, removing this limited amount of data didn't create a substantial skew.
-         * Marginal differences can be viewed within the *Average Math Scores*, *% Passing Math*, *% Passing Reading*, and *% Overall Passing*.
+* With 39,170 students involved, removing this limited amount of data didn't create a substantial skew.
+* Marginal differences can be viewed within the *Average Math Scores*, *% Passing Math*, *% Passing Reading*, and *% Overall Passing*.
 
+
+
+- - - -
     Total School District Summary
       
   ![This is an image](https://github.com/KEGANCP/School_District_Analysis/blob/main/Resources/District_Summary_total.png)
