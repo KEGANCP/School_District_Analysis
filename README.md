@@ -26,7 +26,7 @@ The below will show our data with all scores, and the second image shows with th
 The below images will show differences within our dataframes including all scores, compared to our dataframe with 9th grade scores from THS removed.
 * The only data affected in this dataframe is that specific to Thomas High School
 * Comparing THS scores you will notice another marginal difference within all of the average score and passing percentage columns
-* By removing the 9th grade scores, it has predominantly affect the schools scores negatively.
+* By removing the 9th grade scores, it has predominantly affected THS scores negatively.
 
 
 
@@ -39,4 +39,14 @@ The below images will show differences within our dataframes including all score
   ![This is an image](https://github.com/KEGANCP/School_District_Analysis/blob/main/Resources/Per_School_Summary_w_o_THS.png)
 
 
+### Math & Reading scores by grade
+The below will show the difference with total scores and with 9th grade data from THS removed for both math and reading scores.
+
+    #### Math scores by grade
+      
+  ![This is an image](https://github.com/KEGANCP/School_District_Analysis/blob/main/Resources/math_scores_by_grade.png)
+
+    #### Reading scores by grade
+       
+  ![This is an image](https://github.com/KEGANCP/School_District_Analysis/blob/main/Resources/reading_scores_by_grade.png)
 
