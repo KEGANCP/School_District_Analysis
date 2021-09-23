@@ -60,3 +60,26 @@ The below will show the difference with total scores and with 9th grade data fro
    #### School Spending Summary with THS 9th grader scores removed
        
   ![This is an image](https://github.com/KEGANCP/School_District_Analysis/blob/main/Resources/school_spending_wo_THS.png)
+
+
+### Summary by School Size
+
+   #### School Size Summary Total
+      
+  ![This is an image](https://github.com/KEGANCP/School_District_Analysis/blob/main/Resources/school_size_total.png)
+
+   #### School Size Summary with THS 9th grader scores removed
+       
+  ![This is an image](https://github.com/KEGANCP/School_District_Analysis/blob/main/Resources/school_size_wo_THS.png)
+  
+  
+ ### Summary by School Type
+
+   #### School Type Summary Total
+      
+  ![This is an image](https://github.com/KEGANCP/School_District_Analysis/blob/main/Resources/school_type_total.png)
+
+   #### School Type Summary with THS 9th grader scores removed
+       
+  ![This is an image](https://github.com/KEGANCP/School_District_Analysis/blob/main/Resources/school_type_wo_THS.png)
+  
