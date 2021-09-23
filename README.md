@@ -1,5 +1,5 @@
 # School District Analysis
-
+- - - -
 ## Overview
 Maria is a cheif data scientist for a local school district. With myself being new to the team, she has tasked me to assist with gathering data to assist with her analysis utilizing Pandas and Jupyter Notebook. We also utilized a couple datasets containing raw data from our local school district. These datasets included data specific to the [schools within the district](https://github.com/KEGANCP/School_District_Analysis/blob/main/Resources/schools_complete.csv), as well as data pertaining to the [students who attended these schools](https://github.com/KEGANCP/School_District_Analysis/blob/main/Resources/students_complete.csv).
 
@@ -8,12 +8,14 @@ Upon consolidating data from these datasets with several different basis and cri
 ## Results 
 
 #### School District Summary
-    * Total School District Summary
-      *
-    
+The below will show our data with all scores, and the second image shows with the prior mention 9th grades Thomas High School scores reomved. Reviewing the data we can conclude:
+         * With 39,170 students involved, removing this limited amount of data didn't create a substantial skew.
+         * Marginal differences can be viewed within the *Average Math Scores*, *% Passing Math*, *% Passing Reading*, and *% Overall Passing*.
+
+    Total School District Summary
+      
   ![This is an image](https://github.com/KEGANCP/School_District_Analysis/blob/main/Resources/District_Summary_total.png)
 
-    * School District Summary without Thomas High School 9th grade scores
-      *
-      
-    ![This is an image](https://github.com/KEGANCP/School_District_Analysis/blob/main/Resources/District_summary_w_o_THS.png)
+    School District Summary without Thomas High School 9th grade scores
+       
+  ![This is an image](https://github.com/KEGANCP/School_District_Analysis/blob/main/Resources/District_summary_w_o_THS.png)
