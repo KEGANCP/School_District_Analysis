@@ -42,11 +42,21 @@ The below images will show differences within our dataframes including all score
 ### Math & Reading scores by grade
 The below will show the difference with total scores and with 9th grade data from THS removed for both math and reading scores.
 
-    #### Math scores by grade
+   #### Math scores by grade
       
   ![This is an image](https://github.com/KEGANCP/School_District_Analysis/blob/main/Resources/math_scores_by_grade.png)
 
-    #### Reading scores by grade
+   #### Reading scores by grade
        
   ![This is an image](https://github.com/KEGANCP/School_District_Analysis/blob/main/Resources/reading_scores_by_grade.png)
 
+
+### Summary by School Spending
+
+   #### School Spending Summary Total
+      
+  ![This is an image](https://github.com/KEGANCP/School_District_Analysis/blob/main/Resources/school_spending_total.png)
+
+   #### School Spending Summary with THS 9th grader scores removed
+       
+  ![This is an image](https://github.com/KEGANCP/School_District_Analysis/blob/main/Resources/school_spending_wo_THS.png)
