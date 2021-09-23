@@ -13,8 +13,6 @@ The below will show our data with all scores, and the second image shows with th
 * Marginal differences can be viewed within the *Average Math Scores*, *% Passing Math*, *% Passing Reading*, and *% Overall Passing*.
 
 
-
-- - - -
     Total School District Summary
       
   ![This is an image](https://github.com/KEGANCP/School_District_Analysis/blob/main/Resources/District_Summary_total.png)
@@ -22,3 +20,23 @@ The below will show our data with all scores, and the second image shows with th
     School District Summary without Thomas High School 9th grade scores
        
   ![This is an image](https://github.com/KEGANCP/School_District_Analysis/blob/main/Resources/District_summary_w_o_THS.png)
+
+
+### Per School Summary
+The below images will show differences within our dataframes including all scores, compared to our dataframe with 9th grade scores from THS removed.
+* The only data affected in this dataframe is that specific to Thomas High School
+* Comparing THS scores you will notice another marginal difference within all of the average score and passing percentage columns
+* By removing the 9th grade scores, it has predominantly affect the schools scores negatively.
+
+
+
+    Total Per School Summary
+      
+  ![This is an image](https://github.com/KEGANCP/School_District_Analysis/blob/main/Resources/Per_school_summary_Total.png)
+
+    Per School Summary without Thomas High School 9th grade scores
+       
+  ![This is an image](https://github.com/KEGANCP/School_District_Analysis/blob/main/Resources/Per_School_Summary_w_o_THS.png)
+
+
+
