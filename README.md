@@ -8,12 +8,12 @@ Upon consolidating data from these datasets with several different basis and cri
 ## Results 
 
 #### School District Summary
-    * Total school district summary
+    * Total School District Summary
       *
     
   ![This is an image](https://github.com/KEGANCP/School_District_Analysis/blob/main/Resources/District_Summary_total.png)
 
-  * School District summary with Thomas high School 9th grade removed
-    *    
-    
+    * School District Summary without Thomas High School 9th grade scores
+      *
+      
     ![This is an image](https://github.com/KEGANCP/School_District_Analysis/blob/main/Resources/District_summary_w_o_THS.png)
