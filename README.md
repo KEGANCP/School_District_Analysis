@@ -11,9 +11,9 @@ Upon consolidating data from these datasets with several different basis and cri
     * Total school district summary
       *
     
-  [This is an image](https://github.com/KEGANCP/School_District_Analysis/blob/main/Resources/District_Summary_total.png)
+  ![This is an image](https://github.com/KEGANCP/School_District_Analysis/blob/main/Resources/District_Summary_total.png)
 
   * School District summary with Thomas high School 9th grade removed
     *    
     
-    [this is an image](https://github.com/KEGANCP/School_District_Analysis/blob/main/Resources/District_summary_w_o_THS.png)
+    ![This is an image](https://github.com/KEGANCP/School_District_Analysis/blob/main/Resources/District_summary_w_o_THS.png)
