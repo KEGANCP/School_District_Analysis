@@ -83,3 +83,11 @@ The below will show the difference with total scores and with 9th grade data fro
        
   ![This is an image](https://github.com/KEGANCP/School_District_Analysis/blob/main/Resources/school_type_wo_THS.png)
   
+- - - -
+## Summary of Results
+In regards to the restructure of our data by removing our 9th grade scores within Thomas High School due to potential acedemic dishonesty, we can conlude that the results are insubstantial, and only provide some very minimal differences in some of the data that we outlined above. Whilst running the data we were able to determine there were a total of 461 9th grade students attending THS, and this is too finite of a quantity to affect the mass of over 39 thousand students total in most of the data we were analyzing. The data we could see altered included the following:
+* THS Average Reading score
+* THS Average Math Score
+* THS % Passing Math
+* THS % Passing Reading
+* THS % Overall Passing
